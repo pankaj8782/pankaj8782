@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pankaj Shah</h1>
 <h3 align="center">Aspiring data analyst skilled in Python, SQL, and Excel, with a passion for turning data into actionable insights.</h3>
 
-- 🌱 I’m currently learning **Data Analyst**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://pankajshah.netlify.app](https://pankajshah.netlify.app)
 
